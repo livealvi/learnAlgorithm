@@ -1,0 +1,13 @@
+﻿  CountingSort.cpp
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(22,26): error C2131: expression did not evaluate to a constant
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(22,16): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(22,16): message : see usage of 'Arraysize'
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(24,19): error C2131: expression did not evaluate to a constant
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(24,15): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(24,15): message : see usage of 'max'
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(26,21): error C3863: array type 'int [max+1]' is not assignable
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(32,43): error C3863: array type 'int [Arraysize+1]' is not assignable
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(43,15): error C2131: expression did not evaluate to a constant
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(43,13): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(43,13): message : see usage of 'n'
+C:\Users\Alvi Hasan\Documents\Algorithms\CountingSort\CountingSort\CountingSort.cpp(46,13): warning C4552: '>>': result of expression not used
